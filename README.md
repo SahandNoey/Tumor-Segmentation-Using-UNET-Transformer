@@ -35,7 +35,7 @@ Example of segmented brain MRI image:
 
 ![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/1344.png)
 
-![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/114.png)
+![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/883.png)
 
 ![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/132.png)
 
