@@ -45,12 +45,3 @@ _Center: Ground Truth mask of the brain tumor._
 
 _Right: Predicted segmentation mask produced by the model._
 
-
-
-
-## Callbacks
-
-The training process uses the following Keras callbacks:
-- ModelCheckpoint
-- ReduceLROnPlateau
-- EarlyStopping
