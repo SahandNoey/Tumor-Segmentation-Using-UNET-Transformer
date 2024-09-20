@@ -32,18 +32,18 @@ The model generates segmentation masks that highlight tumor regions in MRI image
 
 Example of segmented brain MRI image: 
 
-_Left: Original MRI image._
-
-_Center: Ground Truth mask of the brain tumor._
-
-_Right: Predicted segmentation mask produced by the model._
-
 
 ![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/1344.png)
 
 ![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/114.png)
 
 ![](https://github.com/SahandNoey/Tumor-Segmentation-Using-UNETR/blob/master/results/132.png)
+
+_Left: Original MRI image._
+
+_Center: Ground Truth mask of the brain tumor._
+
+_Right: Predicted segmentation mask produced by the model._
 
 
 
